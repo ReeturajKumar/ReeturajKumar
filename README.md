@@ -37,7 +37,8 @@
 ### 🧩 Featured Project
 
 #### 🔹 [HireTrack](https://hiretrack.vercel.app/)
-> A seamless, modern job tracking & hiring platform for companies and candidates.
+> HireTrack is a modern job platform connecting seekers and
+employers with tools for applications, resumes, and admin management. 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/122677370/262635282-4dc2a758-e7bc-4e14-bc8d-4045e4e3eb5e.gif" width="700"/>
